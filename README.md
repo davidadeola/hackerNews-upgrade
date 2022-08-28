@@ -61,7 +61,7 @@ styles: # Folder for All styles in SASS and CSS
 
 This web app is very easy to use.
 
-Step-1: # Open the Web app [HackerNews](https://hackernews-upgrade.herokuapp.com/)
+Step-1: # Open the Web app
 Step-2: # Scroll down to view later posts
 Step-3: # Click on any post of choice, it takes you to a new Tab.
 Step-4: # Search for desired post at the search bar.
@@ -70,3 +70,8 @@ Step-5: # Thank you!
 ## Deployed on Vercel
 
 Check out the app [HackerNews](https://hackernews-upgrade.herokuapp.com/) for more details.
+
+## LICENSE
+
+Copyright (c) 2022 David Adeola
+Licensed under Drop Solution, for React Native developer candidate assesmment purposes.
