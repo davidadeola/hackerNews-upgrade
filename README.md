@@ -74,4 +74,4 @@ Check out the app [HackerNews](https://hackernews-upgrade.herokuapp.com/) for mo
 ## LICENSE
 
 Copyright (c) 2022 David Adeola
-Licensed MT
+Licensed MIT
